@@ -232,7 +232,7 @@ Example:
 <!-- Code Blocks can not be indented due to the <pre> tags -->
 With a 'use' statement:
 <pre class="pre-scrollable">
-<code class="prettyprint">use PhpRbac;
+<code class="prettyprint">use PhpRbac\Rbac;
 $rbac = new Rbac();</code>
 </pre>
 
